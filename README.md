@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Francis</h1>
 <h3 align="left">I am a practical and constant front end developer</h3>
-![image](https://github.com/fperez15/fperez15/assets/108949391/d13447b1-f106-44d4-8c27-a4a9d9c4387e)
+<a href="https://github.com/fperez15/fperez15/assets/108949391/d13447b1-f106-44d4-8c27-a4a9d9c4387e"</a>
 <h5 align="left"Soy una Frontend Developer e Ingeniera en Sistemas perseverante, constante, adaptable y práctica. Mi tiempo libre lo dedico a aprender y reforzar mis conocmientos para crear paginas web eficiente y funcionales</h5>
 - 🌱 I’m currently learning **frameworks, courses, programming languages, database**
 
-- 💬 Ask me about **javascript, html5, css3, nodejs, firebase**
+- 💬 Ask me about **javascript, html5, css3, nodejs**
 
 - 📬 How to reach me **francis.perez1590@gmail.com**
 
