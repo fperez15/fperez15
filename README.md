@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Francis</h1>
-<h3 align="center">I am a practical and constant front end developer</h3>
-<h5 align="center">Soy una Frontend Developer e Ingeniera en Sistemas perseverante, constante, adaptable y práctica. Mi tiempo libre lo
+<h1 align="left">Hi 👋, I'm Francis</h1>
+<h3 align="left">I am a practical and constant front end developer</h3>
+<h5 align="left">Soy una Frontend Developer e Ingeniera en Sistemas perseverante, constante, adaptable y práctica. Mi tiempo libre lo
 dedico a aprender y reforzar mis conocmientos para crear paginas web eficiente y funcionales </h5>
 
 - 🌱 I’m currently learning **frameworks, courses, programming languages, database**
