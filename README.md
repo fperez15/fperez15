@@ -3,7 +3,6 @@
 
 ![imagen](https://media.licdn.com/dms/image/D4E16AQHPbZAx8xy-FA/profile-displaybackgroundimage-shrink_350_1400/0/1684555744704?e=1689811200&v=beta&t=Wl2KIY6wLWFSyabykbEIXwRQORuIKHuA3oBdC_s5jG0)
 
-
 <h4 align="left">I am a persevering, constant, adaptable and practical Frontend Developer and Systems Engineer. My free time
 I dedicate myself to learning and reinforcing my knowledge to develop efficient and functional web pages </h4>
 
